@@ -36,10 +36,11 @@ Hi there! I'm Tamajit Das, a Software Developer passionate about Coding. Welcome
 ## 🌐 Connect with Me
 
 **LinkedIn**
-- https://www.linkedin.com/in/tamajit-das-7b0272217/
-- 
+- https://www.linkedin.com/in/tamajit-das-7b0272217/ 
 **LeetCode**
   https://leetcode.com/tamajit123/
+**GeeksforGeeks**
+  https://auth.geeksforgeeks.org/user/dastamajit207
   
 
 ## 🤝 Let's Connect 
